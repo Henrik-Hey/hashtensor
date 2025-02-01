@@ -159,18 +159,22 @@ export const CollaborationsSection = () => {
                 <ScrollImage src="./homezai.svg" />
                 <ScrollImage src="./pageon.svg" />
                 <ScrollImage src="./sharpstakes.png" />
+                <ScrollImage src="./adsagency.svg" />
                 <ScrollImage src="./hashmatrix-logo.svg" />
                 <ScrollImage src="./homezai.svg" />
                 <ScrollImage src="./pageon.svg" />
                 <ScrollImage src="./sharpstakes.png" />
+                <ScrollImage src="./adsagency.svg" />
                 <ScrollImage src="./hashmatrix-logo.svg" />
                 <ScrollImage src="./homezai.svg" />
                 <ScrollImage src="./pageon.svg" />
                 <ScrollImage src="./sharpstakes.png" />
+                <ScrollImage src="./adsagency.svg" />
                 <ScrollImage src="./hashmatrix-logo.svg" />
                 <ScrollImage src="./homezai.svg" />
                 <ScrollImage src="./pageon.svg" />
                 <ScrollImage src="./sharpstakes.png" />
+                <ScrollImage src="./adsagency.svg" />
               </div>
             </div>
           </div>
